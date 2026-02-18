@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
-<!--
-**IzumiiKonata/IzumiiKonata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Coding%20%26%20Life-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/github/stars/IzumiiKonata?style=flat-square&color=6e5494" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=IzumiiKonata&rank_icon=github&include_all_commits=true"
+    height="165"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=IzumiiKonata&langs_count=4"
+    height="165"
+  />
+</p>
+
+---
+
+<p align="center">
+  <img
+    src="https://count.getloli.com/@IzumiiKonata?theme=booru-lewd"
+    alt="visitor counter"
+  />
+</p>
